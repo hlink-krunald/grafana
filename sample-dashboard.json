@@ -1,0 +1,19 @@
+{
+  "id": null,
+  "title": "Sample Dashboard",
+  "tags": [],
+  "timezone": "browser",
+  "panels": [
+    {
+      "type": "text",
+      "title": "Welcome",
+      "gridPos": { "x": 0, "y": 0, "w": 24, "h": 3 },
+      "options": {
+        "content": "Hello from the sample dashboard!",
+        "mode": "markdown"
+      }
+    }
+  ],
+  "schemaVersion": 36,
+  "version": 0
+}
